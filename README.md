@@ -1,4 +1,4 @@
-### Olá! Eu sou o Hugo.
+### 
 
 <div align="center">
   <a href="https://github.com/tokyodreams">
