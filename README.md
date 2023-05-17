@@ -19,4 +19,4 @@
   
 
   
-  ![snake gif](https://github.com/tokyodreams/tokyodreams/blob/output/github-contribution-grid-snake.svg)
+  ![snake gif](https://github.com/hugo-exe/hugo-exe/blob/output/github-contribution-grid-snake.svg)
